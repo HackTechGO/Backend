@@ -12,8 +12,8 @@
 # Command Line: 
 <ul>
     <li><a href="https://www.evernote.com/shard/s386/u/0/sh/8efe563c-af2f-4767-b98c-1e5a09e69236/ddb4e330d16f9e0e1066bcbc9a16f83c">What Is Difference Between UNIX And Linux</a></li>
-    <li><a href="https://www.evernote.com/shard/s386/u/0/sh/c4810656-db78-47af-b64b-4cb46056524e/d835a9e3ce8874296f323383b6476dd5">Getting to Know the Command Line </a></li>
     <li><a href="https://www.evernote.com/shard/s386/u/0/sh/dfebe569-7d9d-4421-bb4f-a6364ae6d928/e3b99c20f220079168a3c63d9f3dc19a">Survival guide for Unix newbies</a></li>
+    <li><a href="https://www.evernote.com/shard/s386/u/0/sh/c4810656-db78-47af-b64b-4cb46056524e/d835a9e3ce8874296f323383b6476dd5">Getting to Know the Command Line </a></li>
     <li>Read <a href="https://www.evernote.com/shard/s386/u/0/sh/1e2dfecb-9394-4fe1-8352-9523b20513bf/62bd6204ec7cf7f52dc9a0b31106fb5a">Important Linux Commands You Should Know, </a>or check this <a href="https://github.com/HackTechGO/Backend/blob/master/The%20Linux%20Command%20Line.pdf">FREE BOOK </a>to master Linux command line</li
     <li>Watch this <a href="https://youtu.be/IVquJh3DXUA"> tutorial</a></li>
 </ul

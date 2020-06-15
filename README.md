@@ -2,6 +2,7 @@
 
 # Agile Methodology:
 <ul>
+    <li><a href="https://www.youtube.com/watch?v=rIaz-l1Kf8w">Kanban vs. Scrum</a></li>
     <li><a href="https://www.evernote.com/shard/s386/u/0/sh/eb7cb151-9254-4a30-974b-676b45e266a3/db2cfe04d95b4c50a66daaef05dfea99"> Agile Team Organisation: Squads, Chapters, Tribes and Guilds</a></li> 
 </ul>
 
